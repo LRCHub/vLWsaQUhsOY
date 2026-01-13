@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ずっとグルーピー",
+  "base_artist": "andymori",
+  "createdAt": "2026-01-13T20:31:45.112525Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ずっとグルーピー",
+      "artist": "andymori",
+      "has_synced": false,
+      "path": "select/pl_01_ずっとグルーピー_andymori.txt"
+    }
+  ]
+}
